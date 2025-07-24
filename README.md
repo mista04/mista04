@@ -24,6 +24,7 @@ I's hard to me share and do this things public so I started this github like a p
 - [x] Master’s Degree in Telecommunications and Microcomputer systems
 - [ ] CompTIA Security+
 - [ ] CCNA
+- [ ] Homelab
 - [x] Customize github pofile
 - [ ] Make 5 proyects
 - [ ] Make 10 proyects
